@@ -1,4 +1,4 @@
 rm 2-esc
-rm buton-alianta
-rm buton-building
-rm coordonate-ac
+rm alianta/buton-alianta
+rm alianta/buton-building
+rm aliance/coordonate-ac
