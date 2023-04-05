@@ -1,4 +1,7 @@
-rm 2esc
+esc
+s500
+esc
+s500
 rm alianta/buton-alianta
 rm alianta/buton-building
 rm alianta/coordonate-ac
