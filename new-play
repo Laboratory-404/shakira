@@ -1,5 +1,5 @@
 rm create-guest
-rm join-alianta
+rm join-alianta-
 rm init-play-act/teleport-land
 rm intrare-castel
 rm init-play-act/make-fmine-1
