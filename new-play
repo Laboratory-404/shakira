@@ -1,4 +1,4 @@
-rm create-guest
+rm create-guest-
 rm join-alianta-
 rm init-play-act/teleport-land
 rm intrare-castel
