@@ -16,5 +16,6 @@ s500
 ~s121
 ~s100
 rm init-play-act/build-i
-s60000
+s1000
 esc
+s500
