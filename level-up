@@ -1,8 +1,11 @@
 rm level-up-act/centrare
 
-rm level-up-act/make-ferma-1
-rm level-up-act/build
+rm level-up-act/make-ferma-1-
+rm level-up-act/build-
 
-rm level-up-act/make-baraca-1
-rm level-up-act/build
+rm level-up-act/make-baraca-1-
+rm level-up-act/build-
+
+rm level-up-act/make-baraca-1-
+rm level-up-act/build-
 
