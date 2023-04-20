@@ -1,20 +1,2 @@
-s500
-~s123
-~s111
-~s188
-~s155
-473,444,516,462
-s2500
-~s110
-~s120
-~s121
-~s100
-669,279,757,312
-s900
-~s110
-~s120
-~s121
-~s100
-rm init-play-act/build
-s60000
-esc
+rm buton-questuri
+rm claim
