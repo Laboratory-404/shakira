@@ -1,19 +1,19 @@
 rm init-play-act/centrare
 
-rm init-play-act/make-fmine-1-
-rm init-play-act/build-
+rm init-play-act/make-fmine-1
+rm init-play-act/build
 
 rm init-play-act/make-baraca-1-
 rm init-play-act/build-
 
-rm init-play-act/make-wmine-1
-rm init-play-act/build
+rm init-play-act/make-wmine-1-
+rm init-play-act/build-
 
-rm init-play-act/make-smine-1
-rm init-play-act/build
+rm init-play-act/make-smine-1-
+rm init-play-act/build-
 
-rm init-play-act/make-gmine-1
-rm init-play-act/build
+rm init-play-act/make-gmine-1-
+rm init-play-act/build-
 
 
 
