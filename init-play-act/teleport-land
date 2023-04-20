@@ -7,4 +7,5 @@ rm buton-coords-go
 rm buton-inventar
 rm buton-inventar-tab-4
 rm buton-inventar-use
-rm buton-use-teleport
+rm buton-teleport-use
+rm buton-teleport-ok
