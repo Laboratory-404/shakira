@@ -47,11 +47,21 @@ rm claim-s
 esc
 s500
 rm init-play-act/make-castel-3
-rm init-play-act/make-
-rm init-play-act/make-
-rm init-play-act/make-
-rm init-play-act/make-
-rm init-play-act/make-
+rm init-play-act/make-fmine-3
+rm init-play-act/make-baraca-3
+rm init-play-act/make-smine-3
+rm init-play-act/make-wmine-3
+rm init-play-act/make-gmine-3
+rm buton-questuri
+rm claim-s
+rm claim-s
+rm claim-s
+rm claim-s
+rm claim-s
+rm claim-s
+rm claim-s
+esc
+s600
 rm init-play-act/make-
 rm init-play-act/make-
 rm init-play-act/make-
