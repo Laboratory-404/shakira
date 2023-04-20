@@ -82,7 +82,8 @@ esc
 s600
 rm colectare-vip
 rm buy-vip
-rm 
+rm init-play-act/use-vip
+rm colectare-vip
 
 
 
