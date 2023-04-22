@@ -196,7 +196,24 @@ s800
 rm init-play-act2/hospital-lvl3
 s800
 rm init-play-act2/baraca-lvl4
-rm init-play-act2/
+s800
+rm ciocan1
+s800
+rm buton-sugerare-claim-quest
+s800
+rm init-play-act2/gmine-lvl4
+s800
+rm buton-questuri-daily
+s400
+rm claim-d
+s400
+rm claim-d
+s400
+rm claim-d
+s400
+rm claim-d
+
+
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
