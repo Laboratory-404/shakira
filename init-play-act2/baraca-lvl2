@@ -1,4 +1,3 @@
 rm buton-sugerare-quest
+rm build-dep1
 rm build
-s3800
-rm buton-sugerare-claim-quest
