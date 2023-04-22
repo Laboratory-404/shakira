@@ -164,8 +164,36 @@ s800
 rm init-play-act2/gmine-lvl3
 s800
 rm init-play-act2/academy-lvl3
-rm init-play-act2/
-rm init-play-act2/
+s800
+rm init-play-act2/treasure-lvl3
+s800
+rm buton-questuri
+s1800
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+esc
+s800
+rm init-play-act2/hospital-lvl3
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
