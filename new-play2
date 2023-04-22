@@ -225,10 +225,7 @@ rm claim-d-box1
 s400
 esc
 s800
-
-
-
-rm init-play-act2/
+rm init-play-act2/zid-lvl4
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
