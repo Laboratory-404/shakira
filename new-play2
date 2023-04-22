@@ -194,7 +194,8 @@ s400
 esc
 s800
 rm init-play-act2/hospital-lvl3
-rm init-play-act2/
+s800
+rm init-play-act2/baraca-lvl4
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
