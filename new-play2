@@ -159,9 +159,8 @@ s400
 rm claim-s
 esc
 s800
-
-
-rm init-play-act2/
+rm init-play-act2/baraca-lvl3
+s800
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
