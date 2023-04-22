@@ -1,5 +1,7 @@
 rm create-guest
 s800
+rm cutie-albastra
+s800
 rm schimbare-poza
 s800
 rm schimbare-nume
@@ -99,10 +101,8 @@ s800
 rm init-play-act2/turn-lvl4
 s800
 rm init-play-act2/post-lvl4
-
-
-
-rm init-play-act2/deschide-2cutii------------
+s800
+rm init-play-act2/deschide-2cutii
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
