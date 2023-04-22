@@ -115,12 +115,10 @@ s800
 rm help
 s800
 rm init-play-act2/colectare-resursa-quest
-
-
-
-
-rm init-play-act2/
-rm init-play-act2/
+s800
+rm init-play-act2/treasure-lvl2
+s800
+rm init-play-act2/hospital-lvl2
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
