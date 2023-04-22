@@ -223,10 +223,19 @@ rm claim-d
 s400
 rm claim-d-box1
 s400
+rm buton-questuri-event
+s400
+rm event-the-trader
+s400
+rm event-the-trader-claim
+s400
+rm event-the-trader-claim
 esc
 s800
 rm init-play-act2/zid-lvl4
-rm init-play-act2/
+s800
+rm init-play-act2/academy-lvl4
+s800
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
