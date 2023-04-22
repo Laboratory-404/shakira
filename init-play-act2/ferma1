@@ -1,2 +1,4 @@
-rm buton-sugerare-claim-quest
+rm buton-sugerare-quest
 rm build
+s500
+rm buton-sugerare-claim-quest
