@@ -1,6 +1,6 @@
 rm create-guest
 rm schimbare-poza
+rm init-play-act/join-alianta-existenta
 rm schimbare-nume
 rm schimbare-nume-nick
 rm init-play-act/join-alianta-existenta
-rm init-play-act/deschide-2cutii
