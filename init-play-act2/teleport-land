@@ -1,8 +1,8 @@
 rm iesire-castel
 rm buton-coords-x
-1411
+{castel_x}
 rm buton-coords-y
-1049
+{castel_y}
 rm buton-coords-go
 rm buton-inventar
 rm buton-inventar-tab-4
