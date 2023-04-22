@@ -1,4 +1,27 @@
-rm claim-train-trops
 s500
+~s120
+~s122
+~s100
+~s176
+~s123
+rm claim-train-trops
+s1200
+~s120
+~s122
+~s100
+~s176
+~s123
+425,271,446,279
+s900
+~s120
+~s122
+~s100
+~s176
+~s123
 rm train
 s500
+~s120
+~s122
+~s100
+~s176
+~s123
