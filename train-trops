@@ -1,0 +1,4 @@
+rm train-claim-trops
+s500
+rm train
+s500

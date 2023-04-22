@@ -107,6 +107,14 @@ s800
 rm intrare-castel
 s800
 rm init-play-act2/deschide-2cutii
+s800
+rm claim-train-trops
+s800
+rm train-trops
+
+
+
+
 rm init-play-act2/
 rm init-play-act2/
 rm init-play-act2/
