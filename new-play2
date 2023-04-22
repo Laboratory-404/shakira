@@ -72,7 +72,8 @@ rm claim-s
 s400
 rm claim-s
 s400
-
+esc
+s500
 
 
 rm init-play-act2/castel-lvl3-
