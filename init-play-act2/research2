@@ -2,6 +2,6 @@ rm buton-sugerare-quest
 s1800
 rm research-i
 s3800
-esc
-s600
+15,55,44,58
+s1100
 rm buton-sugerare-claim-quest
