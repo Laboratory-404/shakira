@@ -114,7 +114,7 @@ rm train-trops
 s800
 rm help
 s800
-rm colectare-resursa-quest
+rm init-play-act2/colectare-resursa-quest
 
 
 
