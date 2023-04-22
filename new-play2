@@ -89,6 +89,12 @@ s800
 rm init-play-act2/cladire-lvl3
 s800
 rm init-play-act2/research2
+s800
+rm init-play-act2/castel-lvl4
+s800
+rm help
+s800
+
 
 rm init-play-act2/
 rm init-play-act2/
