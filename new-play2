@@ -56,6 +56,25 @@ rm init-play-act2/teleport-land
 s800
 rm intrare-castel
 s800
+rm buton-questuri
+s800
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+
+
+
 rm init-play-act2/castel-lvl3-
 s800
 rm help-
