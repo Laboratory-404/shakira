@@ -14,8 +14,6 @@ rm init-play-act2/baraca-lvl2
 rm init-play-act2/colectare-vip
 rm init-play-act2/train-trops1
 rm init-play-act2/join-alianta-existenta
-rm init-play-act2/teleport-land
-rm intrare-castel
 rm help
 rm init-play-act2/cladire-lvl2
 rm init-play-act2/cladire-lvl2
@@ -27,7 +25,9 @@ rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm init-play-act2/use-trops
-
+rm init-play-act2/teleport-land
+rm intrare-castel
+rm init-play-act2/castel-lvl3
 
 rm init-play-act2/deschide-2cutii------------
 rm init-play-act2/
