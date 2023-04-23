@@ -92,6 +92,10 @@ rm init-play-act2/cladire-lvl3
 s800
 rm buton-sugerare-claim-quest
 s800
+rm claim-train-trops
+s800
+rm train-trops
+s800
 rm init-play-act2/storage-lvl3
 s800
 rm init-play-act2/research2
@@ -112,8 +116,6 @@ rm intrare-castel
 s800
 rm init-play-act2/deschide-2cutii
 s800
-rm claim-train-trops
-s800
 rm help
 s800
 rm init-play-act2/colectare-resursa-quest
@@ -121,8 +123,6 @@ s800
 rm init-play-act2/treasure-lvl2
 s800
 rm init-play-act2/hospital-lvl2
-s800
-rm claim-train-trops
 s800
 rm buton-questuri
 s1800
@@ -160,6 +160,8 @@ rm claim-s
 s400
 rm claim-s
 esc
+s800
+rm claim-train-trops
 s800
 rm init-play-act2/baraca-lvl3
 s800
