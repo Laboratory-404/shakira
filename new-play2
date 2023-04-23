@@ -164,6 +164,8 @@ rm claim-train-trops
 s800
 rm init-play-act2/baraca-lvl3
 s800
+rm train-trops
+s800
 rm init-play-act2/gmine-lvl3
 s800
 rm init-play-act2/academy-lvl3
@@ -188,6 +190,30 @@ rm claim-s
 s400
 rm claim-s
 s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm buton-questuri-daily
+s400
+rm claim-d
+s400
+rm claim-d
+s400
+rm claim-d
+s400
+rm claim-d-box1
+s800
 esc
 s800
 rm init-play-act2/hospital-lvl3
@@ -195,3 +221,7 @@ s800
 rm init-play-act2/baraca-lvl4
 s800
 rm init-play-act2/gmine-lvl4
+s800
+rm init-play-act2/zid-lvl4
+s800
+rm init-play-act2/academy-lvl4
