@@ -188,6 +188,10 @@ rm claim-s
 s400
 rm claim-s
 s400
+esc
+s800
 rm init-play-act2/hospital-lvl3
 s800
 rm init-play-act2/baraca-lvl4
+s800
+rm init-play-act2/gmine-lvl4
