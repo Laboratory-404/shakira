@@ -162,8 +162,6 @@ rm claim-train-trops
 s800
 rm init-play-act2/baraca-lvl3
 s800
-rm train-trops
-s800
 rm init-play-act2/gmine-lvl3
 s800
 rm init-play-act2/academy-lvl3
