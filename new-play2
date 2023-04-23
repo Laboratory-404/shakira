@@ -2,14 +2,6 @@ rm create-guest
 s1800
 rm init-play-act2/cutie-albastra
 s800
-rm train-trops
-s800
-rm schimbare-poza
-s800
-rm schimbare-nume
-s800
-rm schimbare-nume-nick
-s800
 rm setari-joc
 s800
 rm init-play-act2/cladire-lvl1
@@ -26,11 +18,15 @@ rm init-play-act2/cladire-lvl1
 s800
 rm init-play-act2/castel-lvl2
 s800
-rm claim-train-trops
-s800
 rm init-play-act2/baraca-lvl2
 s800
 rm init-play-act2/train-trops1
+s800
+rm schimbare-poza
+s800
+rm schimbare-nume
+s800
+rm schimbare-nume-nick
 s800
 rm init-play-act2/colectare-vip
 s800
