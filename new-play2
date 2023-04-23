@@ -1,9 +1,5 @@
 rm create-guest
 s1800
-rm iesire-castel-
-s800-
-rm intrare-castel-
-s800-
 rm init-play-act2/cutie-albastra
 s800
 rm schimbare-poza
@@ -29,6 +25,8 @@ s800
 rm init-play-act2/castel-lvl2
 s800
 rm init-play-act2/baraca-lvl2
+s800
+rm train-trops
 s800
 rm init-play-act2/colectare-vip
 s800
@@ -83,7 +81,7 @@ s800
 rm init-play-act2/castel-lvl3
 s800
 rm help
-s800
+s200
 rm init-play-act2/cladire-lvl3
 s800
 rm init-play-act2/cladire-lvl3
@@ -91,8 +89,6 @@ s800
 rm init-play-act2/cladire-lvl3
 s800
 rm buton-sugerare-claim-quest
-s800
-rm claim-train-trops
 s800
 rm init-play-act2/storage-lvl3
 s800
@@ -122,6 +118,12 @@ rm init-play-act2/hospital-lvl2
 s800
 rm buton-questuri
 s1800
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
+s400
 rm claim-s
 s400
 rm claim-s
