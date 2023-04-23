@@ -94,8 +94,6 @@ rm buton-sugerare-claim-quest
 s800
 rm claim-train-trops
 s800
-rm train-trops
-s800
 rm init-play-act2/storage-lvl3
 s800
 rm init-play-act2/research2
