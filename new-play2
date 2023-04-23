@@ -1,9 +1,9 @@
 rm create-guest
 s1800
-rm iesire-castel
-s800
-rm intrare-castel
-s800
+rm iesire-castel-
+s800-
+rm intrare-castel-
+s800-
 rm init-play-act2/cutie-albastra
 s800
 rm schimbare-poza
@@ -209,6 +209,12 @@ s400
 rm claim-d
 s400
 rm claim-d
+s400
+rm claim-s
+s400
+rm claim-s
+s400
+rm claim-s
 s400
 rm claim-d-box1
 s800
