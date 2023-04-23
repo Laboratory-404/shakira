@@ -26,11 +26,9 @@ rm init-play-act2/castel-lvl2
 s800
 rm init-play-act2/baraca-lvl2
 s800
-rm train-trops
+rm init-play-act2/train-trops1
 s800
 rm init-play-act2/colectare-vip
-s800
-rm init-play-act2/train-trops1
 s800
 rm init-play-act2/join-alianta-existenta
 s2200
