@@ -1,7 +1,5 @@
 rm create-guest
 s200
-rm iesire-castel-
-rm intrare-castel-
 rm init-play-act2/cutie-albastra
 s100
 rm setari-joc2
