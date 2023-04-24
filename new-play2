@@ -5,9 +5,9 @@ s200
 rm intrare-castel
 s800
 rm init-play-act2/cutie-albastra
-s800
+s100
 rm setari-joc2
-s800
+s100
 rm init-play-act2/cladire-lvl1
 s800
 rm init-play-act2/cladire-lvl1
