@@ -202,16 +202,16 @@ rm claim-d
 s400
 rm claim-d
 s400
-rm claim-d-box1
+rm claim-d-box1-
 s800
-esc
+esc-
 s800
-rm init-play-act2/hospital-lvl3
+rm init-play-act2/hospital-lvl3-
 s800
-rm init-play-act2/baraca-lvl4
+rm init-play-act2/baraca-lvl4-
 s800
-rm init-play-act2/gmine-lvl4
+rm init-play-act2/gmine-lvl4-
 s800
-rm init-play-act2/zid-lvl4
+rm init-play-act2/zid-lvl4-
 s800
-rm init-play-act2/academy-lvl4
+rm init-play-act2/academy-lvl4-
