@@ -1,5 +1,5 @@
 rm create-guest
-s1800
+s200
 rm init-play-act2/cutie-albastra
 s800
 rm setari-joc2
