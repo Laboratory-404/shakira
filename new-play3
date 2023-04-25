@@ -26,14 +26,7 @@ rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm teleport-land
-rm buy-vip
-rm vip
-rm vip
-rm vip
-rm vip
-rm vip
-rm vip
-esc
+rm intrare-castel
 rm init-play-act3/use-trops
 rm init-play-act3/castel-lvl3
 rm help
@@ -78,3 +71,4 @@ rm claim-s
 rm claim-s
 rm claim-s
 rm claim-s
+esc
