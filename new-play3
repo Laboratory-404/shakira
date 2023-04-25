@@ -25,9 +25,9 @@ rm schimbare-poza
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
+rm init-play-act3/use-trops
 rm teleport-land
 rm intrare-castel
-rm init-play-act3/use-trops
 rm init-play-act3/castel-lvl3
 rm help
 rm init-play-act3/cladire-lvl3
