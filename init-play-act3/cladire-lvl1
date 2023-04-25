@@ -1,0 +1,22 @@
+rm buton-sugerare-quest
+rm build
+s500
+~s120
+~s150
+~s111
+~s170
+~s125
+~s177
+~s124
+~s190
+rm buton-sugerare-claim-quest
+s300
+~s120
+~s150
+~s111
+~s170
+~s125
+~s177
+~s124
+~s190
+
