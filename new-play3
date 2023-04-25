@@ -1,4 +1,5 @@
 rm create-guest
+rm join-alianta-Pulas
 rm setari-joc2%%rm init-play-act3/cutie-albastra
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
@@ -24,6 +25,8 @@ rm schimbare-poza
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
+rm teleport-land
+rm intrare-castel
 rm init-play-act3/use-trops
 rm init-play-act3/castel-lvl3
 rm help
