@@ -1,9 +1,32 @@
 rm create-guest
-rm init-play-act3/cutie-albastra
-rm setari-joc2
+rm setari-joc2%%rm init-play-act3/cutie-albastra
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/research1
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
+rm init-play-act3/castel-lvl2
+rm init-play-act3/baraca-lvl2
+
+rm init-play-act2/train-trops1-
+s800
+rm schimbare-poza-
+s800
+rm schimbare-nume-
+s800
+rm schimbare-nume-nick-
+s800
+rm init-play-act2/colectare-vip-
+s800
+rm init-play-act2/join-alianta-existenta-
+s2200
+rm buton-sugerare-claim-quest-
+s800
+rm init-play-act2/cladire-lvl2-
+s800-
+rm init-play-act2/cladire-lvl2-
+s800
+rm init-play-act2/cladire-lvl2-
+s800
+rm init-play-act2/cladire-lvl2-
