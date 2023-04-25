@@ -1,0 +1,14 @@
+rm buton-inventar
+rm buton-inventar-tab-4
+rm buton-inventar-use-all
+s10000
+esc
+s600
+~s120
+~s139
+~s155
+~s179
+~s144
+~s166
+~s122
+~s154
