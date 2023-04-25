@@ -13,7 +13,6 @@ rm schimbare-nume
 rm schimbare-nume-nick
 rm schimbare-poza-------
 rm init-play-act3/colectare-vip
-rm init-play-act2/join-alianta-existenta----
 rm buton-sugerare-claim-quest
 rm init-play-act3/cladire-lvl2
 rm init-play-act3/cladire-lvl2
@@ -22,3 +21,4 @@ rm init-play-act3/cladire-lvl2
 rm init-play-act3/research2
 rm init-play-act3/cladire-lvl2
 rm buton-sugerare-claim-quest
+rm init-play-act3/join-alianta-existenta
