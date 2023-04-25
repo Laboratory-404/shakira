@@ -1,22 +1,20 @@
 rm buton-sugerare-quest
 rm build
-s500
-~s120
-~s150
-~s111
-~s170
-~s125
-~s177
-~s124
-~s190
+~s80
+~s50
+~s90
+~s70
+~s75
+~s77
+~s82
+~s19
 rm buton-sugerare-claim-quest
-s300
-~s120
-~s150
-~s111
-~s170
-~s125
-~s177
-~s124
-~s190
+~s80
+~s50
+~s90
+~s70
+~s75
+~s77
+~s82
+~s19
 
