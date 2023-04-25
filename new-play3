@@ -2,7 +2,7 @@ rm create-guest
 rm setari-joc2%%rm init-play-act3/cutie-albastra
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
-rm init-play-act3/research1
+rm init-play-act3/research1-2
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
@@ -17,7 +17,7 @@ rm init-play-act3/cladire-lvl2
 rm init-play-act3/cladire-lvl2
 rm init-play-act3/cladire-lvl2
 rm init-play-act3/cladire-lvl2
-rm init-play-act3/research2
+rm init-play-act3/research1-2
 rm init-play-act3/cladire-lvl2
 rm init-play-act3/join-alianta-existenta
 rm schimbare-poza
