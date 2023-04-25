@@ -1,5 +1,5 @@
 rm create-guest
-rm setari-joc2%%rm init-play-act3/cutie-albastra
+rm setari-joc2
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/research1-2
@@ -34,6 +34,4 @@ rm claim-s
 rm claim-s
 rm claim-s
 rm claim-s
-rm claim-s
-rm claim-s
-rm buton-sugerare-claim-quest
+rm nume-alianta
