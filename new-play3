@@ -1,4 +1,9 @@
 rm create-guest
-rm init-play-act2/cutie-albastra
+rm init-play-act3/cutie-albastra
 rm setari-joc2
-rm init-play-act2/cladire-lvl1
+rm init-play-act3/cladire-lvl1
+rm init-play-act3/cladire-lvl1
+rm init-play-act3/research1
+rm init-play-act3/cladire-lvl1
+rm init-play-act3/cladire-lvl1
+rm init-play-act3/cladire-lvl1
