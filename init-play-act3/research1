@@ -1,7 +1,29 @@
 rm buton-sugerare-quest
-s1100
+~s80
+~s50
+~s90
+~s70
+~s75
+~s77
+~s82
+~s59
 rm research
 s3800
 rm claim-research
-s500
+~s80
+~s50
+~s90
+~s70
+~s75
+~s77
+~s82
+~s59
 rm buton-sugerare-claim-quest
+~s80
+~s50
+~s90
+~s70
+~s75
+~s77
+~s82
+~s59
