@@ -119,15 +119,11 @@ esc
 s500
 rm init-play-act3/hospital-lvl3
 rm init-play-act3/baraca-lvl4
-rm init-play-act2/gmine-lvl4
-s800
-rm init-play-act2/zid-lvl4
-s800
-rm init-play-act2/academy-lvl4
-s800
-rm init-play-act2/treasure-lvl4
-s800
-rm init-play-act2/hospital-lvl4
+rm init-play-act3/gmine-lvl4
+rm init-play-act3/zid-lvl4
+rm init-play-act3/academy-lvl4
+rm init-play-act3/treasure-lvl4
+rm init-play-act3/hospital-lvl4
 
 
 
