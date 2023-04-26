@@ -75,6 +75,8 @@ rm claim-s
 rm claim-s
 rm claim-s
 esc
+s800
+esc
 rm buy-vip
 rm vip
 rm vip
@@ -82,5 +84,7 @@ rm vip
 rm vip
 rm vip
 rm vip
+esc
+s800
 esc
 rm delete-c
