@@ -92,10 +92,12 @@ rm init-play-act3/deschide-2cutii
 rm init-play-act3/treasure-lvl2
 rm init-play-act3/hospital-lvl2
 rm claim-train-trops
-rm init-play-act3/baraca-lvl3
-rm init-play-act3/gmine-lvl3
-rm init-play-act3/academy-lvl3
-rm init-play-act3/treasure-lvl3
+rm init-play-act2/baraca-lvl3
+rm init-play-act2/gmine-lvl3
+s800
+rm init-play-act2/academy-lvl3
+s800
+rm init-play-act2/treasure-lvl3
 
 
 
