@@ -1,5 +1,9 @@
 rm create-guest
 rm join-alianta-Pulaz
+esc
+s500
+esc
+s600
 rm setari-joc2%%rm init-play-act3/cutie-albastra
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
