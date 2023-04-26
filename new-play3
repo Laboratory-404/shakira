@@ -46,9 +46,6 @@ rm init-play-act3/storage-lvl4
 rm init-play-act3/turn-lvl4
 rm init-play-act3/post-lvl4
 rm init-play-act3/make-research-2
-rm iesire-castel
-rm intrare-castel
-rm init-play-act3/deschide-2cutii
 rm claim-train-trops
 rm train-trops
 esc
@@ -89,6 +86,21 @@ rm claim-s
 esc
 s400
 esc
+rm iesire-castel
+rm intrare-castel
+rm init-play-act3/deschide-2cutii
+rm init-play-act3/treasure-lvl2
+s800
+rm init-play-act3/hospital-lvl2
+
+
+
+
+
+
+
+
+
 rm buy-vip
 rm vip
 rm vip
