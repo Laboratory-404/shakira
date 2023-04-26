@@ -1,9 +1,9 @@
 rm create-guest
 rm join-alianta-noua
 esc
-s500
+s50
 esc
-s600
+s90
 rm setari-joc2%%rm init-play-act3/cutie-albastra
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
@@ -87,9 +87,11 @@ rm claim-s
 rm claim-s
 rm claim-s
 esc
-s800
+s400
 esc
 rm buy-vip
+rm vip
+rm vip
 rm vip
 rm vip
 rm vip
