@@ -45,6 +45,7 @@ rm help
 rm init-play-act3/storage-lvl4
 rm init-play-act3/turn-lvl4
 rm init-play-act3/post-lvl4
+rm init-play-act3/make-research-2
 rm iesire-castel
 rm intrare-castel
 rm init-play-act3/deschide-2cutii
@@ -55,6 +56,9 @@ s700
 esc
 s500
 rm buton-questuri
+rm claim-s
+rm claim-s
+rm claim-s
 rm claim-s
 rm claim-s
 rm claim-s
