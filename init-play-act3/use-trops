@@ -1,7 +1,7 @@
 rm buton-inventar
 rm buton-inventar-tab-4
 rm buton-inventar-use-all
-s7000
+s5000
 esc
 ~s32
 ~s21
