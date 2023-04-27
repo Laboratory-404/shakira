@@ -71,7 +71,9 @@ rm init-play-act3/baga-rss-all-fast
 rm buton-questuri
 rm claim-s
 rm claim-s
+esc
 s500
+esc
 
 rm init-play-act3/castel-lvl3
 rm help
