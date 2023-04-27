@@ -49,9 +49,11 @@ rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm rss-p
-rm rss-insert-r2
-rm rss-insert-r2
-rm rss-insert-r2
+rm rss-insert-r1
+rm rss-insert-r1
+rm rss-insert-r1
+rm rss-insert-r1
+rm rss-insert-r1
 esc
 s500
 rm init-play-act3/buy-vip-rss-300k
