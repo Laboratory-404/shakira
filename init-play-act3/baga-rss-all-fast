@@ -1,11 +1,15 @@
 rm buton-inventar
-rm buton-inventar-use-all
-rm buton-inventar-use-all
-rm buton-inventar-use-all
-rm buton-inventar-use-all
-rm buton-inventar-use-all
-rm buton-inventar-use-all
-rm buton-inventar-use-all
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
+rm buton-inventar-use-all-f
 esc
 ~s10
 ~s12
