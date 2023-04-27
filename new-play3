@@ -149,10 +149,17 @@ rm init-play-act3/treasure-lvl4
 rm init-play-act3/hospital-lvl4
 s800
 esc
-s800
+s300
+rm buy-vip
+rm vip
+rm vip
+rm vip
+s150
+esc
+s400
 esc
 s600
-rm exit-alianta-
+rm exit-alianta
 esc
 s500
-rm delete-c-
+rm delete-c
