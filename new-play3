@@ -30,12 +30,14 @@ rm init-play-act3/cladire-lvl2
 rm init-play-act3/cladire-lvl2
 rm init-play-act3/research1-2
 rm init-play-act3/cladire-lvl2
-rm init-play-act3/join-alianta-existenta-
-rm schimbare-poza
+
+
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
+
+
+rm schimbare-poza%%rm init-play-act3/use-trops
 rm buton-sugerare-claim-quest
-rm init-play-act3/use-trops
 rm teleport-land
 rm intrare-castel
 
