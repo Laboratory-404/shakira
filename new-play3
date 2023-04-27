@@ -24,10 +24,10 @@ rm claim-s
 rm claim-s
 rm claim-s
 esc
-s400
+s900
 esc
-
-rm buy-vip
+rm teleport-land
+rm init-play-act3/buy-vip
 rm vip
 rm vip
 s400
@@ -51,8 +51,12 @@ rm buton-sugerare-claim-quest
 
 rm schimbare-poza%%rm init-play-act3/use-trops
 rm buton-sugerare-claim-quest
-rm teleport-land
-rm intrare-castel
+rm buton-sugerare-claim-quest
+
+
+
+
+
 
 rm init-play-act3/castel-lvl3
 rm help
