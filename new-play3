@@ -151,7 +151,7 @@ esc
 s800
 esc
 s600
-rm exit-alianta
+rm exit-alianta-
 esc
 s500
-rm delete-c
+rm delete-c-
