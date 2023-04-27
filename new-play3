@@ -4,7 +4,7 @@ esc
 s50
 esc
 s90
-rm setari-joc2%%rm deschide-cutie-albastra%%rm init-play-act3/colectare-vip%%rm init-play-act3/schimbare-nume-act%%rm schimbare-poza%%rm init-play-act3/cladire-lvl1
+rm setari-joc2%%rm init-play-act3/colectare-vip%%rm init-play-act3/schimbare-nume-act%%rm schimbare-poza%%rm init-play-act3/cladire-lvl1
 rm init-play-act3/cladire-lvl1
 rm init-play-act3/research1-2
 rm init-play-act3/cladire-lvl1
@@ -32,7 +32,6 @@ rm buton-questuri
 rm claim-s
 esc
 s1000
-rm deschide-cutie-albastra
 rm teleport-land
 rm init-play-act3/buy-vip
 rm vip
@@ -43,6 +42,8 @@ s800
 esc
 rm init-play-act3/use-vip
 rm init-play-act3/colectare-vip
+rm init-play-act3/baga-rss-3
+rm deschide-cutie-albastra
 
 
 
