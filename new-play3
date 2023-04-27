@@ -44,7 +44,10 @@ esc
 rm init-play-act3/use-vip
 rm init-play-act3/colectare-vip
 rm init-play-act3/baga-rss-all-fast
-rm init-play-act3/buy-vip-rss
+rm init-play-act3/buy-vip-rss-500k
+rm buy-vip-all
+rm buy-vip-rss-5min
+
 
 
 
