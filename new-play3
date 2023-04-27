@@ -44,6 +44,12 @@ esc
 rm init-play-act3/use-vip
 rm init-play-act3/colectare-vip
 rm init-play-act3/baga-rss-all-fast
+rm init-play-act3/buy-vip-rss
+
+
+
+
+
 rm relog-guest-
 rm init-play-act3/cladire-lvl2
 rm init-play-act3/cladire-lvl2
