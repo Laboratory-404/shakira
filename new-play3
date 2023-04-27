@@ -43,17 +43,6 @@ s800
 esc
 rm init-play-act3/use-vip
 rm init-play-act3/colectare-vip
-rm init-play-act3/baga-rss-all-fast
-rm init-play-act3/buy-vip-rss-100k
-rm buy-vip-all
-rm buy-vip-rss-5min
-esc
-s500
-
-
-
-
-
 
 rm relog-guest-
 rm init-play-act3/cladire-lvl2
@@ -67,6 +56,14 @@ rm init-play-act3/cladire-lvl2
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
+
+rm init-play-act3/baga-rss-all-fast
+rm init-play-act3/buy-vip-rss-100k
+rm buy-vip-all
+rm buy-vip-rss-5min
+esc
+s500
+rm init-play-act3/baga-rss-all-fast
 
 
 
