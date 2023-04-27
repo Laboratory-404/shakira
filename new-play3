@@ -25,6 +25,7 @@ rm claim-s
 esc
 s900
 esc
+rm schimbare-poza%%rm init-play-act3/use-trops
 rm teleport-land
 rm init-play-act3/buy-vip
 rm vip
@@ -48,7 +49,7 @@ rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 
 
-rm schimbare-poza%%rm init-play-act3/use-trops
+
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 
