@@ -57,8 +57,9 @@ rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 rm buton-sugerare-claim-quest
 
+
 rm init-play-act3/baga-rss-all-fast
-rm init-play-act3/buy-vip-rss-100k
+rm init-play-act3/buy-vip-rss-300k
 rm buy-vip-all
 rm buy-vip-rss-5min
 esc
