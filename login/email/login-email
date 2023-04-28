@@ -3,3 +3,10 @@ rm time/time0||rm time/time1
 rm login/email/click-email-insert
 rm time/time0||rm time/time1
 rm emails/users
+rm time/time0||rm time/time1-
+rm login/email/click-email-pass-insert-
+rm time/time0||rm time/time1-
+rm emails/pass-
+rm time/time0||rm time/time1-
+rm login/email/click-email-login-ok-
+s4500-
