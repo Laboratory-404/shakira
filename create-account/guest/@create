@@ -1,0 +1,13 @@
+rm login/click-guest
+s7000
+rm time/time0||rm time/time1
+esc
+rm time/time0||rm time/time1
+rm login/click-guest
+s2000
+rm time/time0||rm time/time1
+rm login/accept-terms
+rm time/time3||rm time/time4
+rm login/accept-terms-ok
+s2500
+rm time/time0||rm time/time1

@@ -1,0 +1,9 @@
+rm login/guest/click-guest
+s7000
+rm time/time0||rm time/time1
+rm general/create-account/accept-terms
+s500
+rm time/time0||rm time/time1
+rm general/create-account/accept-terms-ok
+s2500
+rm time/time0||rm time/time1
