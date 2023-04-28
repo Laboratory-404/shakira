@@ -1,3 +1,5 @@
+esc
+s50
 rm login/email/click-email-button
 rm time/time0||rm time/time1
 rm login/email/click-email-insert
