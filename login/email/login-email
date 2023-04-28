@@ -2,11 +2,11 @@ rm login/email/click-email-button
 rm time/time0||rm time/time1
 rm login/email/click-email-insert
 rm time/time0||rm time/time1
-rm emails/users
+{user}
 rm time/time0||rm time/time1
 rm login/email/click-email-pass-insert
 rm time/time0||rm time/time1
-rm emails/pass
+{pass}
 rm time/time0||rm time/time1
 rm login/email/click-email-login-ok
 s4500
