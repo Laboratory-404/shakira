@@ -1,0 +1,6 @@
+esc
+s200
+rm time/time2||rm time/time1
+rm general/profile/click-profile
+rm general/profile/click-profile-account
+rm general/profile/click-profile-account-logout
