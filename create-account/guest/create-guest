@@ -12,3 +12,4 @@ rm general/account/accept-terms/accept-terms-ok
 s2500
 rm time/time0||rm time/time1
 rm general/iesire-castel
+rm continente/{continent}
