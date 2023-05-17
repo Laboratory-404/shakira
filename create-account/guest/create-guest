@@ -1,3 +1,4 @@
+rm general/account/logout
 rm login/guest/click-guest
 s7000
 rm time/time0||rm time/time1
